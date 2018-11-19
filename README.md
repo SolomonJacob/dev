@@ -20,3 +20,9 @@ How to push changes:
 ```sh
 $git push <reponame>
 ```
+
+To pull changes just type into the console;
+
+```sh
+$git pull
+```
