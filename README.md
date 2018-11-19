@@ -8,4 +8,10 @@ fwewfwfw
 
 sfsfsfse
 
-Mike
+How to push changes:
+
+```sh
+$ git push <reponame>
+```
+
+
