@@ -1,13 +1,10 @@
-# dev
+# Dev
 
 Notes
-testing
 
-## Heading
+These are notes that I can use for programming/using github.
 
-fwewfwfw
-
-sfsfsfse
+## Github/Console Tutorials
 
 To Clone or Download a directory press the green button that says "Clone or Download". Then click on the clipboard to copy the link. After that, go into the console and type;
 
