@@ -41,3 +41,13 @@ $ git push
 ```
 
 Once these have been done it will be updated on github.
+
+### References
+
+Websites that i found useful:
+
+* [GitHub](http://github.com)
+
+* [LinuxCommand](http://linuxcommand.org/lc3_learning_the_shell.php)
+
+* [W3_Schools](https://www.w3schools.com/)
