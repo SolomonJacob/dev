@@ -9,7 +9,7 @@ fwewfwfw
 
 sfsfsfse
 
-To Clone or Download a directory press the green button that says "Clone or Download". Then click on the clipboard to copy the link.
+To Clone or Download a directory press the green button that says "Clone or Download". Then click on the clipboard to copy the link. After that, go into the console and type;
 
 ```sh
 $git clone git@github.com:SolomonJacob/dev.git '<name here>'
