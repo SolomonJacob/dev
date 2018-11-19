@@ -12,17 +12,17 @@ sfsfsfse
 To Clone or Download a directory press the green button that says "Clone or Download". Then click on the clipboard to copy the link. After that, go into the console and type;
 
 ```sh
-$git clone git@github.com:SolomonJacob/dev.git '<name here>'
+$ git clone git@github.com:SolomonJacob/dev.git '<name here>'
 ```
 
 How to push changes:
 
 ```sh
-$git push <reponame>
+$ git push <reponame>
 ```
 
 To pull changes just type into the console;
 
 ```sh
-$git pull
+$ git pull
 ```
