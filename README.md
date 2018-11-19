@@ -16,11 +16,6 @@ $ git clone git@github.com:SolomonJacob/dev.git '<name here>'
 ```
 
 Before doing these steps make sure you save it by doing: Command + S or by clicking File, Save.
-How to push changes:
-
-```sh
-$ git push <reponame>
-```
 
 To pull changes just type into the console;
 
